@@ -3,8 +3,12 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
+
+
+
+
 body:after {
-  content: " @IvanC.Felix - @HectorYepis"; 
+  content: " @IvanC.Felix - @HectorYepis - @AlanDuarte"; 
   font-size: 25px;  
   color: rgba(236, 236, 236, 0.4);
   z-index: 9999;
